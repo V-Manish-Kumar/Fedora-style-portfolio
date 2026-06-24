@@ -658,11 +658,6 @@ The Virtual Filesystem is a plain TypeScript object, not runtime state. This mea
 
 ---
 
-##  Live Demo
-
- **[v-manish-kumar.vercel.app](https://v-manish-kumar.vercel.app)**
-
----
 
 ## ‍ About the Author
 
