@@ -667,8 +667,6 @@ The Virtual Filesystem is a plain TypeScript object, not runtime state. This mea
 ## ‍ About the Author
 
 **Manish Kumar Vodlamodi**  
-B.Tech CSE (AI/ML) — Malla Reddy College of Engineering and Technology  
-CGPA: 8.3 | Expected Graduation: June 2027
 
 -  [LinkedIn](https://www.linkedin.com/in/v-manish-kumar)
 -  [GitHub](https://github.com/V-Manish-Kumar)
