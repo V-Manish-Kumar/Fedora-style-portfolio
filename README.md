@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/_Live_Demo-Visit_Portfolio-3c6eb4?style=for-the-badge)](https://v-manish-kumar.vercel.app)
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-Visit_Portfolio-3c6eb4?style=for-the-badge)]([https://v-manish-kumar.vercel.app](https://portfolio-os.v-manish-kumar.dev/))
 [![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/V-Manish-Kumar/Fedora-style-portfolio)
 
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=white)](https://react.dev)
